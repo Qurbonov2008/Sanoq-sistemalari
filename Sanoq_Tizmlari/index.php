@@ -24,3 +24,10 @@ echo "$decimal soni 2 likda " . DecimalToBinary($decimal) . "\n";
 echo "$binary soni 10 likda " . BinaryToDecimal($binary);
 
 // Agar sizga keying mavzu qiziq bo'lsa Memiry_size.md ga kiring
+
+
+
+
+
+
+
